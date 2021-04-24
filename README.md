@@ -72,6 +72,9 @@ $ yarn install
 
 # Start the client
 $ yarn dev
+
+# Start the server
+$ yarn server
 ```
 
 ## ⚙ Como contribuir
