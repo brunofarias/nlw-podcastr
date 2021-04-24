@@ -1,5 +1,5 @@
 <h1 align="center">
-	<img width="500" alt="logo" src="https://user-images.githubusercontent.com/3935997/115781085-531d9d80-a390-11eb-8eb0-5e8d62e3eb42.png">
+	<img width="400" alt="logo" src="https://github.com/brunofarias/nlw-podcastr/blob/main/public/logo.svg?raw=true">
 </h1>
 
 <p align="center">
