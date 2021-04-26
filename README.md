@@ -24,6 +24,7 @@
 	<a href="#-demo">Demo</a> -
 	<a href="#-iniciando">Iniciando</a> -
 	<a href="#-como-contribuir">Como contribuir</a> - 
+	<a href="#-licenca">Licença</a> - 
 	<a href="#-autor">Autor</a>
 </p>
 
@@ -106,6 +107,9 @@ $ git push origin my-feature
 
 Depois que o seu pull request é dado o merge, você pode deletar sua branch.
 
+## 📄 Licença
+Este é um projeto acadêmico e você pode aprender com ele copiando e editando, é um projeto gratuito e aberto, você pode fazer QUALQUER COISA que quiser e isso nunca vai mudar!
+
 ## 👨‍🦱 Autor
 
 **Bruno Farias**
@@ -116,5 +120,3 @@ Depois que o seu pull request é dado o merge, você pode deletar sua branch.
 
 Este projeto foi desenvolvido com 💚 por Bruno Farias, com o instrutor **[Diego Fernandes](https://www.linkedin.com/in/diego-schell-fernandes/)** durante a **[Next Level Week #5 - Trilha ReactJS](https://nextlevelweek.com/)** da **[Rocketseat](https://rocketseat.com.br)** 💜<br> 
 Se te ajudou, dá ⭐, vai me ajudar também 😉
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
