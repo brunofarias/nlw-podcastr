@@ -24,7 +24,7 @@
 	<a href="#-demo">Demo</a> -
 	<a href="#-iniciando">Iniciando</a> -
 	<a href="#-como-contribuir">Como contribuir</a> - 
-	<a href="#-licenca">Licença</a> - 
+	<a href="#-licença">Licença</a> - 
 	<a href="#-autor">Autor</a>
 </p>
 
